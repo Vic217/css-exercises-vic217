@@ -1,0 +1,19 @@
+.impar {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(155, 13, 79);
+}
+
+#num_2 {
+    color: rgb(0, 0, 167);
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#num_4 {
+    background-color: rgb(116, 197, 85);
+    font-size: 24px;
+    font-weight: bold;
+} 
